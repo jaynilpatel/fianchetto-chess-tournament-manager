@@ -51,7 +51,7 @@ $ npm start
 
 ### Java Server
 
-GitHub: https://github.com/priyankamanjunath/fianchetto-chess-tournament-manager-server-java
+GitHub: https://github.com/jaynilpatel/fianchetto-chess-tournament-manager-server-java
 
 ##### Install dependencies and start Java server
 ```
@@ -62,7 +62,7 @@ $ java -jar target/*.jar
 
 ### Node.js Server
 
-GitHub: https://github.com/priyankamanjunath/fianchetto-chess-tournament-manager-server
+GitHub: https://github.com/jaynilpatel/fianchetto-chess-tournament-manager-server
 ##### Install dependencies and start Node server
 ```
 $ npm install
